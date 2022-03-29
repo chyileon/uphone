@@ -5,16 +5,9 @@
    * [应用场景](/uphone/_application.md)
 
 * 云手机相关流程
-  * [云手游2C场景上线流程](/ucgs/user_flow#云手游2C场景上线流程)
-  * [云手游微端/H5链接推广流程](/ucgs/user_flow#云手游微端/H5链接推广流程)
   
 * 计费
-   * [计费模式](/ucgs/price#计费模式)
-   * [ARM服务器配置](/ucgs/price#ARM服务器配置)
-   * [资源删除](/ucgs/price#资源删除)
 
 * 快速上手指南
-   * [创建WEB服务](/ucgs/guide#创建Servless服务)
-   * [使用WEB云游戏](/ucgs/guide#通过WEB访问DEMO页面)
    
 * [词汇表](/ucgs/_glossary.md)
