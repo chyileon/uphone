@@ -5,9 +5,9 @@
    * [应用场景](/uphone/_application.md)
 
 * 计费
-   * [计费模式](/uphone/price#计费模式)
-   * [ARM服务器配置](/uphone/price#AMR服务器配置)
-   * [资源删除](/uphone/price#资源删除)
+   * [计费模式](/uphone/price.md#计费模式)
+   * [ARM服务器配置](/uphone/price.md#AMR服务器配置)
+   * [资源删除](/uphone/price.md#资源删除)
 
 
 * 快速上手指南
