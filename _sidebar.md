@@ -4,9 +4,11 @@
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
 
-* 云手机相关流程
-  
 * 计费
+* [计费模式](/ucgs/price#计费模式)
+* [ARM服务器配置](/ucgs/price#AMR服务器配置)
+* [资源删除](/ucgs/price#资源删除)
+
 
 * 快速上手指南
    
