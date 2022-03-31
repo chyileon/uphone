@@ -10,5 +10,6 @@
    * [资源删除](/uphone/price.md#资源删除)
 
 * 快速上手指南
-  * [创建云手机服务器](/uphone/signin.md#注册控制台账号)
+  * [注册控制台账号](/uphone/signin.md#注册控制台账号)
+  * [创建云手机服务器](/uphone/signin.md#创建云手机服务器)
    
