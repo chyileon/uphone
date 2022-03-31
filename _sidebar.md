@@ -10,4 +10,6 @@
    * [资源删除](/uphone/price.md#资源删除)
 
 * 快速上手指南
+  * [注册控制台账号](/uphone/price.md#创建账号)
+  * [创建云手机服务器](/uphone/price.md#创建云手机服务器)
    
