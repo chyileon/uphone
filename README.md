@@ -45,8 +45,8 @@ UCloud云游戏基于原生ARM CPU、自研安卓虚拟化技术、GPU直通安�
 
 ## 3.操作指南
 
-* [计费模式](/uphone/price#计费模式)
-* [ARM服务器配置](/uphone/price#AMR服务器配置)
-* [资源删除](/uphone/price#资源删除) 
+* [创建账号](/uphone/signin#创建账号)
+* [创建云手机服务器](/uphone/create#创建云手机服务器)
+
 
 
