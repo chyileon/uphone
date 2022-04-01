@@ -6,7 +6,6 @@
  ![img](images/signin3.png)
 #### 群控管理
  ![img](images/signin4.jpg)
- 勾选开启群控模式
  ![img](images/signin5.jpg)
 #### 文件上传
 
