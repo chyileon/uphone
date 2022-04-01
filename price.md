@@ -6,8 +6,8 @@
 [立即购买](https://console.ucloud.cn/uphone/server)
 ![img](images/price.png)
 
-## ARM服务器配置
-|云主机          |            |
+## 云主机配置
+|配置       |详情            |
 | -------------|----------------|
 |CPU        |安培ARM-24核-3.0GHZ         |
 |内存       |60GB                       |
