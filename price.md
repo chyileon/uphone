@@ -3,7 +3,7 @@
 * 付费方式：支持按月或按年付费
 * 带宽费用：按实际带宽95峰值计费
 * 独立ip：按实际使用个数计费
-* [创建第一台服务器吧！](https://console.ucloud.cn/uphone/server)
+* [创建第一台服务器](https://console.ucloud.cn/uphone/server)
 ![img](images/price.png)
 ## 云主机配置
 |配置       |详情            |
