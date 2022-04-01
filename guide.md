@@ -5,7 +5,7 @@
  ![img](images/signin2.png)
  ![img](images/signin3.png)
 #### 群控管理
- ![img](images/signin4.png)
- ![img](images/signin5.png)
+ ![img](images/signin4.jpg)
+ ![img](images/signin5.jpg)
 #### 文件上传
 
