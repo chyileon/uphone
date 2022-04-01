@@ -8,4 +8,9 @@
  ![img](images/signin4.jpg)
  ![img](images/signin5.jpg)
 #### 文件上传
-
+ ![img](images/file1.jpg)
+ ![img](images/file2.jpg)
+ ![img](images/file3.jpg)
+ ![img](images/file4.jpg) 
+ ![img](images/file5.jpg)
+ ![img](images/file6.jpg)
