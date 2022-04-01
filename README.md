@@ -2,7 +2,7 @@
 #### 产品简介
     * [什么是云手机](/uphone/_whatUphone)
     * [功能与优势](/uphone/_function)
-    * [应用场景](/uphone/_function)
+    * [应用场景](/uphone/_application)
 #### 计费
     * [计费模式](/uphone/price)
     * [ARM服务器配置](/uphone/price)
