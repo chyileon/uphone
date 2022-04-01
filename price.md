@@ -1,9 +1,10 @@
-## 计费模式 #### [立即购买](https://console.ucloud.cn/uphone/server)
+## 计费模式 
 * 费用包括：云主机、带宽、云手机独立IP
 * 付费方式：支持按月或按年付费
 * 带宽费用：按实际带宽95峰值计费
 * 独立ip：按实际使用个数计费
-![img](images/price.png)
+[立即购买](https://console.ucloud.cn/uphone/server)
+
 
 ## 云主机配置
 |配置       |详情            |
