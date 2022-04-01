@@ -12,4 +12,6 @@
 * 快速上手指南
   * [注册控制台账号](/uphone/guide.md#注册控制台账号)
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
+  * [群控管理](/uphone/guide.md#群控管理)
+  * [文件上传](/uphone/guide.md#文件上传)
    
