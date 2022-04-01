@@ -4,7 +4,7 @@
 * 带宽费用：按实际带宽95峰值计费
 * 独立ip：按实际使用个数计费
 * [立即购买](https://console.ucloud.cn/uphone/server)
-
+![img](images/price.png)
 ## 云主机配置
 |配置       |详情            |
 |-------------|----------------|
