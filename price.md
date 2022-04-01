@@ -1,6 +1,6 @@
 ## 计费模式
 包括服务器整机计费和带宽95峰值计费；服务器费用详见控制台。
-* [立即购买](https://www.ucloud.cn/site/product/uphone.html)
+* [立即购买](https://console.ucloud.cn/uphone/server)
 ![img](images/price.png)
 
 ## ARM服务器配置
