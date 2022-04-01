@@ -3,5 +3,7 @@
  ![img](images/signin1.png)
 #### 创建云手机服务器
  ![img](images/signin2.png)
-#### 规格与镜像选择
+#### 群控管理
+![img](images/signin3.png)
+#### 文件上传
 ![img](images/signin3.png)
