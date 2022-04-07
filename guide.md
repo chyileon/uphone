@@ -20,8 +20,8 @@
  ![img](images/file6.jpg)
 ### 自制镜像
 #### 1.创建镜像
- ![img](images/image1.jpg) 
- ![img](images/image2.jpg)
+ ![img](images/image1.png) 
+ ![img](images/image2.png)
 ### 2.添加镜像
-![img](images/image3.jpg)
-![img](images/image4.jpg) 
+![img](images/image3.png)
+![img](images/image4.png) 
