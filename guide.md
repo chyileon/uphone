@@ -18,3 +18,10 @@
  ![img](images/file5.png)
 #### 5.粘贴地址到群控上传页面
  ![img](images/file6.jpg)
+### 自制镜像
+#### 1.创建镜像
+ ![img](images/image1.jpg) 
+ ![img](images/image2.jpg)
+### 2.添加镜像
+![img](images/image3.jpg)
+![img](images/image4.jpg) 
