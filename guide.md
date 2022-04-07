@@ -22,6 +22,7 @@
 #### 1.创建镜像
  ![img](images/image1.png) 
  ![img](images/image2.png)
-#### 2.添加镜像
+#### 2.查看镜像
 ![img](images/image3.png)
+#### 3.使用自制镜像创建云手机服务器
 ![img](images/image4.png) 
