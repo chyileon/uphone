@@ -22,6 +22,6 @@
 #### 1.创建镜像
  ![img](images/image1.png) 
  ![img](images/image2.png)
-### 2.添加镜像
+#### 2.添加镜像
 ![img](images/image3.png)
 ![img](images/image4.png) 
