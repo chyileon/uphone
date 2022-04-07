@@ -14,4 +14,5 @@
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
+  * [自制镜像](/uphone/guide.md#自制镜像)
  
