@@ -4,12 +4,12 @@
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
 
-* 计费
+* 产品计费
    * [计费模式](/uphone/price.md#计费模式)
    * [云主机配置](/uphone/price.md#云主机配置)
    * [资源删除](/uphone/price.md#资源删除)
 
-* 快速上手指南
+* 快速上手
   * [注册控制台账号](/uphone/guide.md#注册控制台账号)
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
