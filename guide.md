@@ -5,6 +5,8 @@
  ![img](images/signin2.png)
  ![img](images/signin3.png)
 ### 群控管理
+ 在"云手机管理"页面点击"群控管理"
+ ![img](images/qunkong1.png)
  ![img](images/signin4.jpg)
  ![img](images/signin5.jpg)
 ### 文件上传
@@ -16,7 +18,7 @@
 #### 3.复制US3文件地址到群控上传页面
  ![img](images/file4.jpg) 
  ![img](images/file5.png)
-#### 5.粘贴地址到群控上传页面
+#### 4.粘贴地址到群控上传页面
  ![img](images/file6.jpg)
 ### 自制镜像
 #### 1.创建镜像
