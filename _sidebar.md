@@ -16,4 +16,5 @@
   * [文件上传](/uphone/guide.md#文件上传)
   * [自制手机镜像](/uphone/guide.md#自制镜像)
   * [独立IP](/uphone/guide.md#独立IP)
+  * [快速测试](/uphone/guide.md#快速测试)
    
