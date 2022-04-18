@@ -4,7 +4,7 @@
 * 带宽费用：按实际购买带宽计费
 * 独立ip：按实际使用个数计费
 * [创建第一台服务器](https://console.ucloud.cn/uphone/server)
-![img](images/price.jpg)
+![img](images/price.png)
 ## 云主机配置
 |配置       |详情            |
 |-------------|----------------|
