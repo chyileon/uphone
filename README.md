@@ -17,5 +17,5 @@
   * [自制镜像](/uphone/guide.md#自制镜像)
  
 ### 常见问题
-   * [功能相关](/uphone/FAQ#功能相关)
-   * [体验相关](/uphone/FAQ#体验相关)
+   * [功能相关](/uphone/FAQ.md#功能相关)
+   * [体验相关](/uphone/FAQ.md#体验相关)
