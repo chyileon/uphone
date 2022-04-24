@@ -10,10 +10,11 @@
    * [资源删除](/uphone/price.md#资源删除)
 
 ### 快速上手
-  * [注册账号](/uphone/guide.md#注册控制台账号)
+  * [注册账号](/uphone/guide.md#注册账号)
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
   * [自制镜像](/uphone/guide.md#自制镜像)
  
 ### 常见问题
+   * [功能相关](/uphone/FAQ.md#功能相关)
