@@ -37,6 +37,6 @@
 ![img](images/image3.png)
 #### 3.使用自制镜像创建云手机服务器
 ![img](images/image4.png) 
-### 独立IP
+### 独立公网IP
  可批量将云手机按照绑定比例购买独立IP（支持国内和海外)，批量云手机共享购买的带宽
 ![img](images/ip.png) 
