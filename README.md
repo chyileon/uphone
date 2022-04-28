@@ -6,7 +6,7 @@
 
 ### 产品计费
    * [计费模式](/uphone/price.md#计费模式)
-   * [云主机配置](/uphone/price.md#云主机配置)
+   * [云主机配置](/uphone/price.md#云手机服务器)
    * [资源删除](/uphone/price.md#资源删除)
 
 ### 快速上手
