@@ -6,8 +6,8 @@
 
 * 产品计费
    * [计费模式](/uphone/price.md#计费模式)
-   * [云主机配置](/uphone/price.md#云主机配置)
-   * [资源删除](/uphone/price.md#资源删除)
+   * [云主机配置](/uphone/price.md#云手机服务器)
+   * [资源删除](/uphone/price.md#退费规则)
 
 * 快速上手
   * [注册账号](/uphone/guide.md#注册账号)
@@ -16,7 +16,7 @@
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
   * [自制手机镜像](/uphone/guide.md#自制镜像)
-  * [独立IP](/uphone/guide.md#独立IP)
+  * [独立IP](/uphone/guide.md#独立公网IP)
 
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
