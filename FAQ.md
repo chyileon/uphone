@@ -71,3 +71,10 @@
 >首次安装时并不会花屏，运行一段时间后抖音会生成临时配置文件，重新打开抖音时会有H265格式视频花屏，临时解决方法可以“清除存储空间” 来释放抖音的配置文件
 >
 ><img width="135" alt="企业微信截图_d608b636-829f-4e96-89d4-2e9659fb20b7" src="https://user-images.githubusercontent.com/5512170/167244027-e104da60-bfa4-4699-b184-3af0166ebd01.png">
+
+## 二次开发
+### Q:云手机管理的API文档在哪看？
+> https://docs.ucloud.cn/api/uphone-api/README
+
+### Q:云手机画面连接的SDK在哪下载？
+> 目前是通过线下单独提供，请联系客户经理
