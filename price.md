@@ -4,11 +4,11 @@
 * 独立公网ip：按实际使用IP个数计费，可选
 * 共享带宽：按实际购买的共享带宽计费，与独立公网IP一同使用，可选
 * [创建第一台服务器](https://console.ucloud.cn/uphone/server)
-![img](images/price.jpg)
+![img](images/price.png)
 ## 云手机服务器
 |配置       |详情            |
 |-------------|----------------|
-|CPU       | 安培ARM 24大核 3.0GHZ         |
+|CPU       | 安培ARM 28大核 3.0GHZ         |
 |内存       |60GB                       |
 |显卡       |1张NVIDIA Tesla T4          |
 |存储       |512G SSD云盘（扩容按存储价格计费）|
