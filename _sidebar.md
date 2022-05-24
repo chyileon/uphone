@@ -28,12 +28,12 @@
 	* [导入SDK包](/uphone/FAQ.md#功能相关)     
 	* [配置参数](/uphone/FAQ.md#功能相关)    
 	* [代码混淆](/uphone/FAQ.md#功能相关)  
-	* 快速入门&接入步骤  
+  * 快速入门&接入步骤  
 	* [注册云手机状态监听器](/uphone/FAQ.md#功能相关)  	
 	* [初始化云手机sdk](/uphone/FAQ.md#功能相关)   	
 	* [连接云手机](/uphone/FAQ.md#功能相关)     
 	* [断开云手机](/uphone/FAQ.md#功能相关)  
-	* 接口说明   
+  * 接口说明   
 	* [初始化sdk](/uphone/FAQ.md#功能相关) 
 	* [连接云手机](/uphone/FAQ.md#功能相关)  
 	* [断开云手机](/uphone/FAQ.md#功能相关)      
