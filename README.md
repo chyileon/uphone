@@ -22,3 +22,8 @@
    * [功能相关](/uphone/FAQ.md#功能相关)
    * [体验相关](/uphone/FAQ.md#体验相关)
    * [二次开发](/uphone/FAQ.md#二次开发)
+
+### UPhone SDK集成指南
+   * [工程配置](/uphone/.md#工程配置)
+   * [快速入门&接入步骤](/uphone/.md#快速入门&接入步骤)
+   * [接口说明](/uphone/.md#接口说明)
