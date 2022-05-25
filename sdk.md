@@ -9,7 +9,7 @@ AndroidManifest.xml清单文件
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
+```
 ### 1.2导入SDK包
 拷贝uphonesdk.aar包到 app模块下的libs，如果没有libs，则手动新建libs文件夹。
 ![img](images/libs.png)
@@ -18,7 +18,7 @@ AndroidManifest.xml清单文件
 ### 1.3配置参数
 配置App 模块下面的build.gradle 
 Android 闭包里面增加
-
+```js
 
 
 repositories {
@@ -30,6 +30,7 @@ dependencies 闭包中增加
 implementation (name: 'uphonesdk', ext: 'aar')
 implementation "com.squareup.okhttp3:okhttp:3.11.0"
 implementation "com.google.code.gson:gson:2.8.2"
+```
 ### 1.4代码混淆
 如果你的接入模块需要代码混淆，请在【接入模块】/proguard-rules.pro 配置文件中加入以下代码: 
 注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
