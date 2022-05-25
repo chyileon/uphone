@@ -1,5 +1,5 @@
-# 1.工程配置
-## 1.1配置权限
+### 1.工程配置
+### 1.1配置权限
 AndroidManifest.xml清单文件
 
 #### 需要增加以下代码：
@@ -29,7 +29,7 @@ implementation (name: 'uphonesdk', ext: 'aar')
 implementation "com.squareup.okhttp3:okhttp:3.11.0"
 implementation "com.google.code.gson:gson:2.8.2"
 ```
-## 1.4代码混淆
+### 1.4代码混淆
 如果你的接入模块需要代码混淆，请在【接入模块】/proguard-rules.pro 配置文件中加入以下代码:     
 >注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
 ```
