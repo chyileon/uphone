@@ -31,8 +31,8 @@
   * 快速入门&接入步骤  
     * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
     * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
-    * [连接 云手机](/uphone/sdk.md#连接 云手机)       
-    * [断开 云手机](/uphone/sdk.md#断开 云手机)  
+    * [连接云手机](/uphone/sdk.md#连接-云手机)       
+    * [断开云手机](/uphone/sdk.md#断开-云手机)  
   * 接口说明   
     * [初始化sdk](/uphone/sdk.md#初始化sdk) 
     * [连接云手机](/uphone/sdk.md#连接云手机)  
