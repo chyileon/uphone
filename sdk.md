@@ -218,7 +218,7 @@ Int getNetDelay();
 功能描述：获取网络传输的rtt延时      
 返回值：String类型参数，单位：ms
 
-## 获取丢包率
+## 获得丢包率
 double getLossRate();      
 功能描述：获取网络传输过程中的丢包率      
 参数说明：返回值是double类型
