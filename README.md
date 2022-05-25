@@ -11,7 +11,7 @@
 
 ### 快速上手
   * [注册账号](/uphone/guide.md#注册账号)
-  * [注册账号](/uphone/guide.md#快速测试)
+  * [快速测试](/uphone/guide.md#快速测试)
   * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
@@ -23,7 +23,7 @@
    * [体验相关](/uphone/FAQ.md#体验相关)
    * [二次开发](/uphone/FAQ.md#二次开发)
 
-### UPhone SDK集成指南
+### UPhoneSDK集成指南
    * [工程配置](/uphone/sdk.md#工程配置)
    * [快速入门&接入步骤](/uphone/sdk.md#快速入门&接入步骤)
    * [接口说明](/uphone/sdk.md#接口说明)
