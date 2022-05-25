@@ -24,31 +24,7 @@
    * [二次开发](/uphone/FAQ.md#二次开发)
 
 ### UPhone SDK集成指南
-
-* 工程配置
-  * 配置权限(/uphone/sdk.md#配置权限)        
-    * [导入SDK包](/uphone/sdk.md#导入SDK包)     
-    * [配置参数](/uphone/sdk.md#配置参数)   
-    * [代码混淆](/uphone/sdk.md#代码混淆)  
-  * 快速入门&接入步骤  
-    * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
-    * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
-    * [连接云手机](/uphone/sdk.md#连接云手机)       
-    * [断开云手机](/uphone/sdk.md#断开云手机)  
-  * 接口说明   
-    * [初始化sdk](/uphone/sdk.md#初始化sdk) 
-    * [连接云手机](/uphone/sdk.md#连接云手机)  
-    * [断开云手机](/uphone/sdk.md#断开云手机)      
-    * [重新连接云手机](/uphone/sdk.md#重新连接云手机)      
-    * [设置分辨率](/uphone/sdk.md#设置分辨率)         
-    * [发送指定按键](/uphone/sdk.md#发送指定按键)       
-    * [设置静音](/uphone/sdk.md#设置静音)     
-    * [是否支持直播](/uphone/sdk.md#是否支持直播)    
-    * [开启直播](/uphone/sdk.md#开启直播)    
-    * [停止直播](/uphone/sdk.md#停止直播)    
-    * [获取视频流基本参数](/uphone/sdk.md#获取视频流基本参数)    
-    * [获得网络延时](/uphone/sdk.md#获得网络延时)  
-    * [获得丢包率](/uphone/sdk.md#获得丢包率)     
-    * [获取网络速度](/uphone/sdk.md#获取网络速度)    
-    * [获取用户最后一次操作时间戳](/uphone/sdk.md#获取用户最后一次操作时间戳)     
-    * [获得版本号](/uphone/sdk.md#获得版本号)
+  * [工程配置](/uphone/sdk.md#工程配置)
+  * [快速入门&接入步骤](/uphone/sdk.md#快速入门&接入步骤)
+  * [接口说明](/uphone/sdk.md#接口说明)
+ 
