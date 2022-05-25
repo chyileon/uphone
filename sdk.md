@@ -82,7 +82,7 @@ private final IUPhoneListener mUPhoneListener = new IUPhoneListener() {
       result: 0表示成功，其他表示失败       
       error: 成功时此为空，失败时为具体错误信息
 
-## 2.2初始化云手机sdk
+## 初始化云手机sdk
 >iUPhone.initSdk(bundle, initCallBackListener);
 参数bundle 构造方法如下：
 ```
@@ -92,7 +92,7 @@ bundle.putString("GAME_PACKAGE_NAME", "xxx");
 bundle.putString("JOB_ID", "xxx");
 
 ```
-## 2.3连接云手机
+## 连接云手机
 在需要展示画面的布局文件中，比如R.layout.activity_main，插入USurfaceView控件。需要在布局文件中要插入以下代码：
 >注意：USurfaceView宽高是wrap content模式，需要保证它的父布局FrameLayout的长宽必须是match parent模式，且只有一个子USurfaceView。
 ```
@@ -125,7 +125,7 @@ iUPhone = new UPhone(this);
 iUPhone.connectUPhone(usv);     
 参数usv对应于USurfaceView 实例参数
 
-## 2.4断开云手机
+## 断开云手机
 在需要断开云手机的地方调用   
 iUPhone.disconnectUPhone()
 
