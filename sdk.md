@@ -171,9 +171,10 @@ void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
 参数描述：
 
-| 参数            | 类型             | 意义            |
-|:-------- |:-------- |：-------- |
+| 参数            | 类型             | 意义                                      |
+|:-------- |:-------- |：----------------------- |
 |  keyName  |  String  | “home” 返回主桌面<br>“menu” 菜单按键<br>“back”  返回按键 |
+
 
 ### 3.7设置静音
 void setAudioMute(boolean mute);
@@ -191,8 +192,11 @@ boolean isSupportLiving();
 ### 3.9开启直播
 void startLive(String url);
 参数描述： 
-参数	类型	意义
-url	String 	直播的推流地址，例如rtmp://127.0.0.1:1935/live
+	 	
+| 参数            | 类型             | 意义            |
+|:-------- |:-------- |:-------- |
+|  url |  String  | 直播的推流地址，例如rtmp://127.0.0.1:1935/live  |
+
 ### 3.10停止直播
 Void stopLive();
 功能描述：在开启直播后，可以调用此方法停止直播
