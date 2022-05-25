@@ -24,7 +24,7 @@
    * [二次开发](/uphone/FAQ.md#二次开发)
 
 ### UPhone SDK集成指南
-  * [工程配置](/uphone/sdk.md#1.工程配置)
-  * [快速入门&接入步骤](/uphone/sdk.md#2.快速入门&接入步骤)
-  * [接口说明](/uphone/sdk.md#3.接口说明)
+  * [工程配置](/uphone/sdk.md#工程配置)
+  * [快速入门&接入步骤](/uphone/sdk.md#快速入门&接入步骤)
+  * [接口说明](/uphone/sdk.md#接口说明)
  
