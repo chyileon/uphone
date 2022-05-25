@@ -133,6 +133,7 @@ iUPhone.disconnectUPhone()
 void initSdk(Bundle bundle, OnInitCallBackListener callBack);     
 功能描述：初始化sdk，传入相关参数     
 参数描述：
+
 | 参数            | 类型             | 意义            |
 |-------- |-------- |------- |
 |PHONE_ID |String |云手机设备id（必填）|
@@ -145,6 +146,7 @@ void connectUPhone(USurfaceView ufView);
 
 功能描述：连接云手机
 参数描述：
+
 | 参数            | 类型             | 意义            |
 |-------- |-------- |------- |
 |  ufView|  USurfaceView |  视图窗口 |
@@ -159,9 +161,11 @@ void reconnection();
 void setResolution(int resolution);     
 功能描述：设置云手机分辨率     
 参数描述：
+
 | 参数            | 类型             | 意义            |
 |-------- |-------- |------- |
 | resolution|  int|  0：480×960P,    //0 标清;3：720×1440P,   //3 高清; 6：1080×2160P,  //6 超清 |
+
 ### 3.6 发送指定按键
 void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
