@@ -167,9 +167,9 @@ void setResolution(int resolution);
 |  resolution  |  int  | 0：480×960P,    //0 标清<br>3：720×1440P,   //3 高清<br>6：1080×2160P,  //6 超清 |
 
 ### 3.6 发送指定按键
-void sendKeyByName(String keyName);
-功能描述：发送指定按键到后台
-参数描述:
+void sendKeyByName(String keyName);      
+功能描述：发送指定按键到后台      
+参数描述：
 
 | 参数            | 类型             | 意义                                      |
 |:-------- |:-------- |：----------------------- |
