@@ -55,7 +55,7 @@ implementation "com.google.code.gson:gson:2.8.2"
 
 | 重要接口            | 接口含义             | 建议调用时机            |
 |-------- |-------- |------- |
-|  registerUphoneListener|  注册云手机状态监听器|  Activity的onCreate方法|
+|registerUphoneListener|注册云手机状态监听器|Activity的onCreate方法|
 |initSdk|初始化sdk|Activity的onCreate方法|
 |connectUPhone|连接云手机|initSdk 方法成功回调后|
 |disconnectUPhone|断开云手机|连接失败后和退出设备连接|
@@ -134,7 +134,7 @@ void initSdk(Bundle bundle, OnInitCallBackListener callBack);
 功能描述：初始化sdk，传入相关参数     
 参数描述：
 | 参数            | 类型             | 意义            |
-|-------- |-------- |------- |
+|--------|--------|-------|
 |  PHONE_ID |  String |  云手机设备id（必填） |
 | GAME_PACKAGE_NAME|  String |  游戏包名（可选） |
 | JOB_ID |  String |  任务id，可随机生成（可选） |
