@@ -197,7 +197,7 @@ void startLive(String url);
 |  url |  String  | 直播的推流地址，例如rtmp://127.0.0.1:1935/live  |
 
 ### 3.10停止直播
-Void stopLive();
+Void stopLive();     
 功能描述：在开启直播后，可以调用此方法停止直播
 ### 3.11获取视频流基本参数
 VideoBean getQRCodeData();    
