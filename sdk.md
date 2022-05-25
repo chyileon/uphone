@@ -77,20 +77,25 @@ private final IUPhoneListener mUPhoneListener = new IUPhoneListener() {
 };
 
 ```
->注:  type:setresolution、startlive、stoplive、startgame等操作类型       
+>注:  
+      type:setresolution、startlive、stoplive、startgame等操作类型       
       result: 0表示成功，其他表示失败       
       error: 成功时此为空，失败时为具体错误信息
 
 ### 2.2初始化云手机sdk
-iUPhone.initSdk(bundle, initCallBackListener);
+>iUPhone.initSdk(bundle, initCallBackListener);
 参数bundle 构造方法如下：
+```
 Bundle bundle = new Bundle();
 bundle.putString("PHONE_ID", "xxx");
 bundle.putString("GAME_PACKAGE_NAME", "xxx");
 bundle.putString("JOB_ID", "xxx");
+
+```
 ### 2.3连接云手机
 在需要展示画面的布局文件中，比如R.layout.activity_main，插入USurfaceView控件。需要在布局文件中要插入以下代码：
-注意：USurfaceView宽高是wrap content模式，需要保证它的父布局FrameLayout的长宽必须是match parent模式，且只有一个子USurfaceView。
+>注意：USurfaceView宽高是wrap content模式，需要保证它的父布局FrameLayout的长宽必须是match parent模式，且只有一个子USurfaceView。
+```
 <FrameLayout 
 xmlns:android=http://schemas.android.com/apk/res/android
 xmlns:tools=http://schemas.android.com/tools
@@ -105,52 +110,58 @@ android:id="@+id/usf"
         android:visibility="visible" 
 />
 </FrameLayout>
+
+```
 在接入的Activity之中，加入以下代码
+```
 USurfaceView usv;
 IUPhone iUPhone = null;
 在对应Activity 的onCreate方法中加入以下代码，并初始化IUPhone实例
-//注意：下面这句代码一定要在activity 的setContentView之前调用
+
+```
+>注意：下面这句代码一定要在activity 的setContentView之前调用
 iUPhone = new UPhone(this); 
-//初始化后，就可以在成功的回调函数调用以下方法连接云手机
-iUPhone.connectUPhone(usv);
+>初始化后，就可以在成功的回调函数调用以下方法连接云手机     
+iUPhone.connectUPhone(usv);     
 参数usv对应于USurfaceView 实例参数
 ### 2.4断开云手机
-在需要断开云手机的地方调用
+在需要断开云手机的地方调用   
 iUPhone.disconnectUPhone()
 ## 3.接口说明
 这一部分主要是详细介绍每个接口的功能以及参数说明。
 ### 3.1初始化sdk
-void initSdk(Bundle bundle, OnInitCallBackListener callBack);
-功能描述：初始化sdk，传入相关参数
+void initSdk(Bundle bundle, OnInitCallBackListener callBack);     
+功能描述：初始化sdk，传入相关参数     
 参数描述：
-参数	类型	意义
-PHONE_ID	String	云手机设备id（必填）
-GAME_PACKAGE_NAME	String	游戏包名（可选）
-JOB_ID	String 	任务id，可随机生成（可选）
-callBack	OnInitCallBackListener	初始化方法回调监视器
+| 参数            | 类型             | 意义            |
+|-------- |-------- |------- |
+|  PHONE_ID |  String |  云手机设备id（必填） |
+| GAME_PACKAGE_NAME|  String |  游戏包名（可选） |
+| JOB_ID |  String |  任务id，可随机生成（可选） |
+|  callBack|  OnInitCallBackListener |  初始化方法回调监视器 |
 
 ### 3.2连接云手机
 void connectUPhone(USurfaceView ufView);
 
 功能描述：连接云手机
 参数描述：
-参数	类型	意义
-ufView	USurfaceView	视图窗口
+| 参数            | 类型             | 意义            |
+|-------- |-------- |------- |
+|  ufView|  USurfaceView |  视图窗口 |
 
 ### 3.3断开云手机
-void disconnectUPhone();
+void disconnectUPhone();     
 功能描述：断开连接云手机
 ### 3.4重新连接云手机
-void reconnection();
+void reconnection();     
 功能描述：重连接云手机
 ### 3.5设置分辨率
-void setResolution(int resolution);
-功能描述：设置云手机分辨率
+void setResolution(int resolution);     
+功能描述：设置云手机分辨率     
 参数描述：
-参数	类型	意义
-resolution	int	0：480×960P,    //0 标清  
-3：720×1440P,   //3 高清
-6：1080×2160P,  //6 超清
+| 参数            | 类型             | 意义            |
+|-------- |-------- |------- |
+| resolution|  int|  0：480×960P,    //0 标清;3：720×1440P,   //3 高清; 6：1080×2160P,  //6 超清 |
 ### 3.6 发送指定按键
 void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
