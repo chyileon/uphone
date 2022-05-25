@@ -134,7 +134,7 @@ void initSdk(Bundle bundle, OnInitCallBackListener callBack);
 功能描述：初始化sdk，传入相关参数     
 参数描述：
 
-| 参数            | 类型             | 意义            |
+| 参数    | 类型   | 意义    |
 |-------- |-------- |------- |
 |PHONE_ID |String |云手机设备id（必填）|
 |GAME_PACKAGE_NAME|String |游戏包名（可选）|
