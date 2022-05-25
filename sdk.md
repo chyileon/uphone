@@ -16,8 +16,8 @@ AndroidManifest.xml清单文件
  
 
 ### 1.3配置参数
--配置App 模块下面的build.gradle 
--Android 闭包里面增加
+- 配置App 模块下面的build.gradle 
+- Android 闭包里面增加
 ```
 repositories {
           flatDir {
