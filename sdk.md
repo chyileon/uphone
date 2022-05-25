@@ -53,11 +53,12 @@ implementation "com.google.code.gson:gson:2.8.2"
 为方便 Android 开发者调试和接入云手机产品 API，这里向您介绍适用于 Android 开发的快速接入文档。    
 快速入门文档只提供最主要的接入接口，更多详细接口请参考 本文第 3 章节“接口说明”部分。 
 
-重要接口	接口含义	建议调用时机
-registerUphoneListener	注册云手机状态监听器	Activity的onCreate方法
-initSdk	初始化sdk	Activity的onCreate方法
-connectUPhone	连接云手机	initSdk 方法成功回调后
-disconnectUPhone	断开云手机	连接失败后和退出设备连接
+|重要接口|接口含义建议|调用时机|
+|--------|------------|-------|
+|registerUphoneListener|注册云手机状态监听器|Activity的onCreate方法|
+|initSdk|初始化sdk|Activity的onCreate方法|
+|connectUPhone|连接云手机|initSdk 方法成功回调后|
+|disconnectUPhone|断开云手机|连接失败后和退出设备连接|
 
 ### 2.1注册云手机状态监听器
 需要生成设备状态监听器，可以监听连接、设置分辨率、开启关闭直播等的状态信息。
