@@ -77,8 +77,8 @@ private final IUPhoneListener mUPhoneListener = new IUPhoneListener() {
 };
 
 ```
->注:  type:setresolution、startlive、stoplive、startgame等操作类型    
-      result: 0表示成功，其他表示失败      
+>注:  type:setresolution、startlive、stoplive、startgame等操作类型       
+      result: 0表示成功，其他表示失败       
       error: 成功时此为空，失败时为具体错误信息
 
 ### 2.2初始化云手机sdk
