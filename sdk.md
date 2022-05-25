@@ -169,12 +169,11 @@ void setResolution(int resolution);
 ### 3.6 发送指定按键
 void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
-参数描述：
+参数描述
 
 | 参数            | 类型             | 意义                                      |
 |:-------- |:-------- |：----------------------- |
 |  keyName  |  String  | “home” 返回主桌面<br>“menu” 菜单按键<br>“back”  返回按键 |
-
 
 ### 3.7设置静音
 void setAudioMute(boolean mute);
