@@ -31,7 +31,7 @@ implementation "com.google.code.gson:gson:2.8.2"
 ```
 ### 1.4代码混淆
 如果你的接入模块需要代码混淆，请在【接入模块】/proguard-rules.pro 配置文件中加入以下代码:     
-注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
+>注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
 ```
 #-renamesourcefileattribute SourceFile
 -keep class com.ucloud.uphonesdk.*.** { *; }
@@ -77,10 +77,9 @@ private final IUPhoneListener mUPhoneListener = new IUPhoneListener() {
 };
 
 ```
->注：   
-    type:setresolution、startlive、stoplive、startgame等操作类型    
-    result: 0表示成功，其他表示失败      
-    error: 成功时此为空，失败时为具体错误信息
+>注:  type:setresolution、startlive、stoplive、startgame等操作类型    
+      result: 0表示成功，其他表示失败      
+      error: 成功时此为空，失败时为具体错误信息
 
 ### 2.2初始化云手机sdk
 iUPhone.initSdk(bundle, initCallBackListener);
