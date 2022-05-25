@@ -30,14 +30,14 @@ implementation "com.squareup.okhttp3:okhttp:3.11.0"
 implementation "com.google.code.gson:gson:2.8.2"
 ```
 ### 1.4代码混淆
-如果你的接入模块需要代码混淆，请在【接入模块】/proguard-rules.pro 配置文件中加入以下代码: 
-?> 注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
-```
+如果你的接入模块需要代码混淆，请在【接入模块】/proguard-rules.pro 配置文件中加入以下代码:     
+注意：在引入sdk的应用模块下面的proguard-rules.pro文件，这里假定是app模块，即：app/proguard-rules.pro文件中，添加下面混淆规则：
+
 #-renamesourcefileattribute SourceFile
 -keep class com.ucloud.uphonesdk.*.** { *; }
 -keep class com.google.** { *; }
 -keep class org.webrtc.** { *; }
-```
+
 以上规则只有对应模块的build.gradle 文件，minifyEnabled置为true才生效，如果编译类型是debug，或者其他类型，请按照实际业务需要添加。
 ```
     buildTypes {
