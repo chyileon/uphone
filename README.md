@@ -25,6 +25,6 @@
 
 ### UPhone SDK集成指南
   * [工程配置](/uphone/sdk.md#工程配置)
-  * [快速入门&接入步骤](/uphone/sdk.md#快速入门AMP接入步骤)
+  * [快速入门&接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
  
