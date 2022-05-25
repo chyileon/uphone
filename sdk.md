@@ -180,7 +180,7 @@ mute	boolean 	true 开启静音
 false 关闭静音
 
 ### 3.8是否支持直播
-boolean isSupportLiving();
+boolean isSupportLiving();     
 功能描述：返回值代表是否支持直播。
 
 ### 3.9开启直播
@@ -192,33 +192,33 @@ url	String 	直播的推流地址，例如rtmp://127.0.0.1:1935/live
 Void stopLive();
 功能描述：在开启直播后，可以调用此方法停止直播
 ### 3.11获取视频流基本参数
-VideoBean getQRCodeData();
-功能说明：获取视频分辨率、横竖屏等参数。
-参数说明：返回值：VideoBean
-String height;   //云手机高度
-String width;    //云手机宽度
+VideoBean getQRCodeData();    
+功能说明：获取视频分辨率、横竖屏等参数。      
+参数说明：返回值：VideoBean      
+String height;   //云手机高度      
+String width;    //云手机宽度     
 boolean bPortrait;//横竖屏标识
 ### 3.12获得网络延时
-Int getNetDelay();
-功能描述：获取网络传输的rtt延时
+Int getNetDelay();      
+功能描述：获取网络传输的rtt延时      
 返回值：String类型参数，单位：ms
 ### 3.13获取丢包率
-double getLossRate();
-功能描述：获取网络传输过程中的丢包率
+double getLossRate();      
+功能描述：获取网络传输过程中的丢包率      
 参数说明：返回值是double类型
 ### 3.14获取网络速度
-double getNetworkSpeed();
-功能描述：获取获取网络传输的速度
+double getNetworkSpeed();     
+功能描述：获取获取网络传输的速度      
 参数说明：返回值是两位小数的double类型，单位是MB/s
 ### 3.15 获取用户最后一次操作时间戳
-long  getLastOperationTimestamp ();
-功能说明：游戏启动后，通过该接口获取用户最后一次操作实例的时间戳
+long  getLastOperationTimestamp ();      
+功能说明：游戏启动后，通过该接口获取用户最后一次操作实例的时间戳     
 参数说明：返回值是long类型的时间戳，单位：ms
 
 
 ### 3.16 获得版本号
-String getVersionCode();
-功能描述：获得SDK版本号
+String getVersionCode();      
+功能描述：获得SDK版本号      
 返回值： String类型参数
 
 
