@@ -11,7 +11,7 @@ AndroidManifest.xml清单文件
 
 ### 1.2导入SDK包
 拷贝uphonesdk.aar包到 app模块下的libs，如果没有libs，则手动新建libs文件夹。
-
+![img](images/libs.png)
  
 
 ### 1.3配置参数
