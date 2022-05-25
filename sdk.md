@@ -3,7 +3,7 @@
 AndroidManifest.xml清单文件
 
 #### 需要增加以下代码：
-```js
+```
 <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
 <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
 <uses-permission android:name="android.permission.INTERNET" />
@@ -18,7 +18,7 @@ AndroidManifest.xml清单文件
 ### 1.3配置参数
 配置App 模块下面的build.gradle 
 Android 闭包里面增加
-```js
+```
 
 
 repositories {
