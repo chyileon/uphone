@@ -170,18 +170,19 @@ void setResolution(int resolution);
 void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
 参数描述：
-参数	类型	意义
-keyName	String	“home” 返回主桌面
-“menu” 菜单按键
-“back”  返回按键
+
+| 参数            | 类型             | 意义            |
+|-------- |-------- |-------- |
+|  keyName  |  String  | “home” 返回主桌面<br>“menu” 菜单按键<br>“back”  返回按键 |
 
 ### 3.7设置静音
 void setAudioMute(boolean mute);
 功能描述：设置云手机静音，非本地静音
 参数描述：
-参数	类型	意义
-mute	boolean 	true 开启静音
-false 关闭静音
+	
+| 参数            | 类型             | 意义            |
+|:-------- |:-------- |:-------- |
+|  mute  |  boolean  | true 开启静音<br>false 关闭静音 |
 
 ### 3.8是否支持直播
 boolean isSupportLiving();     
