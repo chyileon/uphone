@@ -169,7 +169,7 @@ void setResolution(int resolution);
 ### 3.6 发送指定按键
 void sendKeyByName(String keyName);
 功能描述：发送指定按键到后台
-参数描述
+参数描述:
 
 | 参数            | 类型             | 意义                                      |
 |:-------- |:-------- |：----------------------- |
