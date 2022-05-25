@@ -10,7 +10,7 @@ AndroidManifest.xml清单文件
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-### 导入SDK包
+### 1.2导入SDK包
 拷贝uphonesdk.aar包到 app模块下的libs，如果没有libs，则手动新建libs文件夹。
 ![img](images/libs.png)
  
