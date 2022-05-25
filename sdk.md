@@ -164,7 +164,9 @@ void setResolution(int resolution);
 
 | 参数            | 类型             | 意义            |
 |-------- |-------- |------- |
-| resolution|  int|  0：480×960P,    //0 标清;3：720×1440P,   //3 高清; 6：1080×2160P,  //6 超清 |
+| resolution|  int|  0：480×960P,    //0 标清     
+3：720×1440P,   //3 高清      
+6：1080×2160P,  //6 超清 |
 
 ### 3.6 发送指定按键
 void sendKeyByName(String keyName);
