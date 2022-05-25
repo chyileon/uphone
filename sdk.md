@@ -1,8 +1,8 @@
 # 1.工程配置
-## 1.1配置权限
+### 1.1配置权限
 AndroidManifest.xml清单文件
 
-### 需要增加以下代码：
+#### 需要增加以下代码：
 ```
 <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
 <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
@@ -10,12 +10,12 @@ AndroidManifest.xml清单文件
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-## 1.2导入SDK包
+### 1.2导入SDK包
 拷贝uphonesdk.aar包到 app模块下的libs，如果没有libs，则手动新建libs文件夹。
 ![img](images/libs.png)
  
 
-## 1.3配置参数
+### 1.3配置参数
 配置App 模块下面的build.gradle        
 Android 闭包里面增加
 ```
