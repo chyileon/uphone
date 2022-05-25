@@ -10,12 +10,12 @@ AndroidManifest.xml清单文件
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-### 导入SDK包
+## 导入SDK包
 拷贝uphonesdk.aar包到 app模块下的libs，如果没有libs，则手动新建libs文件夹。
 ![img](images/libs.png)
  
 
-### 配置参数
+## 配置参数
 配置App 模块下面的build.gradle        
 Android 闭包里面增加
 ```
@@ -60,7 +60,7 @@ implementation "com.google.code.gson:gson:2.8.2"
 |connectUPhone|连接云手机|initSdk 方法成功回调后|
 |disconnectUPhone|断开云手机|连接失败后和退出设备连接|
 
-## 2.1注册云手机状态监听器
+## 注册云手机状态监听器
 需要生成设备状态监听器，可以监听连接、设置分辨率、开启关闭直播等的状态信息。
 ```
 iUPhone.registerUphoneListener(mUPhoneListener);
