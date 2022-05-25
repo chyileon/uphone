@@ -92,7 +92,7 @@ bundle.putString("GAME_PACKAGE_NAME", "xxx");
 bundle.putString("JOB_ID", "xxx");
 
 ```
-### 连接上云手机
+### 连接 云手机
 在需要展示画面的布局文件中，比如R.layout.activity_main，插入USurfaceView控件。需要在布局文件中要插入以下代码：
 >注意：USurfaceView宽高是wrap content模式，需要保证它的父布局FrameLayout的长宽必须是match parent模式，且只有一个子USurfaceView。
 ```
@@ -125,7 +125,7 @@ iUPhone = new UPhone(this);
 iUPhone.connectUPhone(usv);     
 参数usv对应于USurfaceView 实例参数
 
-### 断开云手机
+### 断开 云手机
 在需要断开云手机的地方调用   
 iUPhone.disconnectUPhone()
 
