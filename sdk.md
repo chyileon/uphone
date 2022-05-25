@@ -21,9 +21,9 @@ Android 闭包里面增加
 
 
 repositories {
-flatDir {
-dirs 'libs'
-}
+          flatDir {
+                   dirs 'libs'
+                  }
 }
 dependencies 闭包中增加
 implementation (name: 'uphonesdk', ext: 'aar')
