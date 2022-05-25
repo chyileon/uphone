@@ -1,4 +1,4 @@
-## (一)工程配置
+## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
 
@@ -49,7 +49,7 @@ implementation "com.google.code.gson:gson:2.8.2"
     }
     
   ```
-## （二）快速入门&接入步骤
+## 快速入门&接入步骤
 为方便 Android 开发者调试和接入云手机产品 API，这里向您介绍适用于 Android 开发的快速接入文档。    
 快速入门文档只提供最主要的接入接口，更多详细接口请参考 本文第 3 章节“接口说明”部分。 
 
@@ -129,7 +129,7 @@ iUPhone.connectUPhone(usv);
 在需要断开云手机的地方调用   
 iUPhone.disconnectUPhone()
 
-## （三）接口说明
+## 接口说明
 这一部分主要是详细介绍每个接口的功能以及参数说明。
 
 ### 初始化sdk
