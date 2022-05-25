@@ -23,7 +23,7 @@
   * [体验相关](/uphone/FAQ.md#体验相关)
   
 * UPhone SDK集成指南
-  * [工程配置]  
+  * 工程配置  
    * [配置权限](/uphone/sdk.md#配置权限)        
    * [导入SDK包](/uphone/sdk.md#导入SDK包)     
    * [配置参数](/uphone/sdk.md#配置参数)    
