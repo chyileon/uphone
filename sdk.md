@@ -1,7 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-[Android SDK接入文档](https://static.ucloud.cn/docs/uphone/images/Android SDK接入文档 V1.0.3.pdf)
+<embed id="pdfPlayer" src="C:\Users\User\Desktop" type="application/pdf" width="100%" height="600" >
 
 #### 需要增加以下代码：
 ```
