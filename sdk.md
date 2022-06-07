@@ -1,6 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
+<a href="annex/附件1.docx" target="_blank">附件1</a>
 
 #### 需要增加以下代码：
 ```
