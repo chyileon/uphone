@@ -1,7 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-[Uphone云手机](/images/UPhoneSDK.pdf)
+<embed id="pdfPlayer" src="C:\Users\User\Desktop.pdf" type="application/pdf" width="100%" height="600" >
 #### 需要增加以下代码：
 ```
 <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
