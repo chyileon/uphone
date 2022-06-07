@@ -143,7 +143,7 @@ void initSdk(Bundle bundle, OnInitCallBackListener callBack);
 |PHONE_ID |String |云手机设备id（必填）|
 |GAME_PACKAGE_NAME|String |游戏包名（可选）|
 |JOB_ID |String |任务id，可随机生成（可选）|
-|TOKEN |String|连接访问校验值(注:如果调用api接口SetUPhoneToken进行了设置，此处为必填,否则为可选|
+|TOKEN |String|连接访问校验值(注:如果调用api接口SetUPhoneToken进行了设置，此处为必填,否则为可选)|
 |callBack|OnInitCallBackListener |初始化方法回调监视器|
 
 ### 连接云手机
