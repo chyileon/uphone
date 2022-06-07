@@ -1,7 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-[Android SDK接入文档](Android SDK接入文档 V1.0.3.pdf)
+[Android SDK接入文档](/images/Upone/Android SDK接入文档 V1.0.3.pdf)
 
 #### 需要增加以下代码：
 ```
