@@ -24,8 +24,11 @@
    * [二次开发](/uphone/FAQ.md#二次开发)
 
 ### UPhone SDK集成指南
-  * [Android SDK接入文档PDF](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
   * [工程配置](/uphone/sdk.md#工程配置)
   * [快速入门&接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
  
+ ### 其他
+  * [Android SDK接入文档PDF](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
+  * [API文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
+  * [API sdk](https://cms-docs.ucloudadmin.com/tools)
