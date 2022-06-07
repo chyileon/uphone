@@ -1,7 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-<embed id="pdfPlayer" src="C:\Users\User\Desktop" type="application/pdf" width="100%" height="600" >
+[Uphone云手机](/images/UPhone云手机-%20Android%20SDK接入文档%20V1.0.3.pdf)
 
 #### 需要增加以下代码：
 ```
