@@ -1,7 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-[UPhoneSDK] https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf
+https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf
 #### 需要增加以下代码：
 ```
 <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
