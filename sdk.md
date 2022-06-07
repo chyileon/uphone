@@ -1,8 +1,7 @@
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
-*  <a href="annex/UPhone云手机- Android SDK接入文档 V1.0.3.pdf" target="_blank">UPhone云手机- Android SDK接入文档 V1.0.3</a>
-[Android SDK接入文档](https://static.ucloud.cn/docs/uphone/images/Android SDK接入文档 V1.0.3.pdf)
+[Android SDK接入文档](Android SDK接入文档 V1.0.3.pdf)
 
 #### 需要增加以下代码：
 ```
