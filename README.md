@@ -29,6 +29,6 @@
   * [接口说明](/uphone/sdk.md#接口说明)
  
  ### 其他
-  * [Android SDK接入文档PDF](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
+  * [Android SDK接入文档](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
