@@ -32,3 +32,4 @@
   * [Android SDK接入文档](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+  * [SDK&Demo](https://static.ucloud.cn/docs/ugame/images/uphone_sdk_demo)
