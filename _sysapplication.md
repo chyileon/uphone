@@ -1,5 +1,5 @@
 
-|序号 &nbsp;&nbsp;         |功能点 &nbsp;          |描述 &nbsp;     |生效 &nbsp;    |开发者 &nbsp;&nbsp;&nbsp;                |
+|序号 &nbsp;&nbsp;         |功能点 &nbsp;          |描述 &nbsp;     |生效 &nbsp;    |开发者 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 |
 |--------------|------------------|-------------|-----------|---------------     | 
 |1    |服务白名单         |只有加入到白名单中的应用才有 su 权限。白名单配置文件 /system/etc/su_app_white_list.conf<br>每一行代表一个应用，需要填写包名表示白名单应用, # 作为分割符，# 号之后为注释（可写可不写）<br># cat su_app_white_list.conf<br>com.tencent.android.qqdownloader # 应用宝<br>com.android.vending # 谷歌应用商店|重启手机|陈小平         |
 |2       |限制APP安装                       |为了防止用户登录云手机界面后安装恶意应用，可以限制APP安装方式<br>* 增加系统开关，默认允许所有应用通过图形化安装应用，无限制<br>* 只能使用命令行来安装应用，意味着无法使用应用宝，浏览器，文件管理器等安装应用<br>使用方式<br>setprop persist.ucloud.appgraphinstall.flag 1 # 无限制<br>setprop persist.ucloud.appgraphinstall.flag 0 # 只能使用命令行安装，禁止图形化安装大包，但可以应用热更新小包|立即生效|陈小平           |
