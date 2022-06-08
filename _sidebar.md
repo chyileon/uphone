@@ -55,4 +55,3 @@
   * [Android SDK(PDF)](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
-  * [SDK&Demo](/uphone/uphone_sdk_demo.zip)
