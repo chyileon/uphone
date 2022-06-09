@@ -30,8 +30,10 @@ Android SDK
   * [接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
 iOS SDK
-手机端 H5 SDK
-电脑端 JS SDK
+H5 SDK
+  * [接入步骤]
+  * [接口说明]
+Web SDK
 
  
  ### 其他
