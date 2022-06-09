@@ -1,3 +1,10 @@
+## Android_SDK下载
+Android SDK 用于 Android 终端接入，支持端游和手游。SDK 提供了丰富的接口，满足大部分接入需求。接入方法请参见 [快速入门](https://docs.ucloud.cn/uphone/sdk?id=快速入门)，并可通过接口概览页面，获取更多功能指引。
+
+| SDK     | ZIP 包 | GitHub  |
+| ----------- | ----------- | ----------- |
+| Android SDK | [下载](http://uphone-sdk.cn-bj.ufileos.com/uphone-android-sdk.zip)| [GitHub 下载](https://github.com/ucloud/uphone-android-sdk) | 
+
 ## 工程配置
 ### 配置权限
 AndroidManifest.xml清单文件
@@ -49,7 +56,7 @@ implementation "com.google.code.gson:gson:2.8.2"
     }
     
   ```
-## 快速入门&接入步骤
+## 快速入门
 为方便 Android 开发者调试和接入云手机产品 API，这里向您介绍适用于 Android 开发的快速接入文档。    
 快速入门文档只提供最主要的接入接口，更多详细接口请参考 本文第 3 章节“接口说明”部分。 
 
