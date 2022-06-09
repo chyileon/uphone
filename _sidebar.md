@@ -24,6 +24,7 @@
   * [体验相关](/uphone/FAQ.md#体验相关)
   
 * SDK集成
+  * SDK下载 
     * [SDK下载](/uphone/sdk.md#SDK下载)  
   * 工程配置     
     * [配置权限](/uphone/sdk.md#配置权限)        
