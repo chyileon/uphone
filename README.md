@@ -26,7 +26,7 @@
 
 ### SDK集成
 Android SDK
-  * [SDK下载] (/uphone/sdk.md#Android_SDK下载)
+  * [SDK下载](/uphone/sdk.md#Android_SDK下载)
   * [工程配置](/uphone/sdk.md#工程配置)
   * [接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
@@ -39,6 +39,5 @@ Web SDK
 
  
  ### 其他
-  * [Android SDK(PDF)](https://static.ucloud.cn/docs/uphone/images/UPhoneSDK.pdf)
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
