@@ -10,14 +10,14 @@
    * [资源删除](/uphone/price.md#退费规则)
 
 * 快速上手
-  * [注册账号](/uphone/guide.md#注册账号)
-  * [快速测试](/uphone/guide.md#快速测试)
-  * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
-  * [群控管理](/uphone/guide.md#群控管理)
-  * [文件上传](/uphone/guide.md#文件上传)
-  * [自制手机镜像](/uphone/guide.md#自制镜像)
-  * [独立IP](/uphone/guide.md#独立公网IP)
-  * [使用AOSP功能](/uphone/_sysapplication.md)
+    * [注册账号](/uphone/guide.md#注册账号)
+    * [快速测试](/uphone/guide.md#快速测试)
+    * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
+    * [群控管理](/uphone/guide.md#群控管理)
+    * [文件上传](/uphone/guide.md#文件上传)
+    * [自制手机镜像](/uphone/guide.md#自制镜像)
+    * [独立IP](/uphone/guide.md#独立公网IP)
+    * [使用AOSP功能](/uphone/_sysapplication.md)
 
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
