@@ -22,7 +22,7 @@
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
   * [体验相关](/uphone/FAQ.md#体验相关)
-  * [体验相关](/uphone/FAQ.md#二次开发)
+  * [二次开发](/uphone/FAQ.md#二次开发)
   * 
 * SDK集成
   * Android SDK 
