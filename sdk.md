@@ -1,4 +1,4 @@
-## Android_SDK下载
+## SDK下载
 Android SDK 用于 Android 终端接入，支持端游和手游。SDK 提供了丰富的接口，满足大部分接入需求。接入方法请参见 [快速入门](https://docs.ucloud.cn/uphone/sdk?id=快速入门)，并可通过接口概览页面，获取更多功能指引。
 
 | SDK     | ZIP 包 | GitHub  |
