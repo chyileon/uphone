@@ -24,19 +24,14 @@
    * [体验相关](/uphone/FAQ.md#体验相关)
    * [二次开发](/uphone/FAQ.md#二次开发)
 
-### SDK集成
-Android SDK
-  * [SDK下载](/uphone/sdk.md#Android_SDK下载)
+### UPhone SDK集成指南
   * [工程配置](/uphone/sdk.md#工程配置)
-  * [接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
+  * [快速入门&接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
 
 H5 SDK
   * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
   * [接口说明](/uphone/h5-sdk.md#API接口)
-
-Web SDK
-
  
  ### 其他
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
