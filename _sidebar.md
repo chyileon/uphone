@@ -3,7 +3,6 @@
    * [什么是云手机](/uphone/_whatUphone.md)
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
-   * [系统功能](/uphone/_sysapplication.md)
 
 * 产品计费
    * [计费模式](/uphone/price.md#计费模式)
@@ -18,6 +17,7 @@
   * [文件上传](/uphone/guide.md#文件上传)
   * [自制手机镜像](/uphone/guide.md#自制镜像)
   * [独立IP](/uphone/guide.md#独立公网IP)
+  * [使用AOSP功能](/uphone/_sysapplication.md)
 
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
