@@ -2,7 +2,7 @@
 
 |  SDK   | ZIP包 | GitHub |
 | :----: | :---: | :----: |
-| H5 SDK | 下载  |        |
+| H5 SDK | [下载]()  |    [GitHub 下载](https://github.com/ucloud/uphone-h5-sdk.git)    |
 
 # 概述
 
