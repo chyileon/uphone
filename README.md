@@ -32,6 +32,7 @@ Android SDK
   * [接口说明](/uphone/sdk.md#接口说明)
 
 H5 SDK
+  * [SDK下载](/uphone/h5-sdk.md#H5&nbspSDK&nbsp下载)
   * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
   * [接口说明](/uphone/h5-sdk.md#API接口)
  
