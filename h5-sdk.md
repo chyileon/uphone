@@ -20,13 +20,13 @@
 
 1．解压SDK压缩包，将uphone-sdk文件夹放入项目中。*开发者可借鉴官方提供demo。
 
-![wecom-temp-aa72dc54fab521daa53506503ceb53bf](/var/folders/yy/k9fvs19n5990m7xgqdg0h75r0000gn/T/com.tencent.WeWorkMac/wecom-temp-aa72dc54fab521daa53506503ceb53bf.png)
+![img](images/h5-img1.png)
 
 2. 用户创建媒体界面，并在媒体界面导入"controller.js"、"proto.js"。
 
-![wecom-temp-f9ba582edc48cb59b6b42dddd7fc54a1](/var/folders/yy/k9fvs19n5990m7xgqdg0h75r0000gn/T/com.tencent.WeWorkMac/wecom-temp-f9ba582edc48cb59b6b42dddd7fc54a1.png)
+![img](images/h5-img2.png)
 
-![wecom-temp-b326ab27921f89433bea65bead8ccefc](/var/folders/yy/k9fvs19n5990m7xgqdg0h75r0000gn/T/com.tencent.WeWorkMac/wecom-temp-b326ab27921f89433bea65bead8ccefc.png)
+![img](images/h5-img3.png)
 
  说明：在创建引擎之前，开发者需定义一个id为phone-video的video标签，SDK会在这个元素内加载音视频。video标签设置autoplay、playsinline、webkit-playsinline属性。
 
