@@ -53,7 +53,9 @@
     * [获取网络速度](/uphone/sdk.md#获取网络速度)    
     * [获取用户最后一次操作时间戳](/uphone/sdk.md#获取用户最后一次操作时间戳)     
     * [获得版本号](/uphone/sdk.md#获得版本号)
-    
+  * H5 SDK
+    * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
+    * [接口说明](/uphone/h5-sdk.md#API接口)
 * 其他
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
