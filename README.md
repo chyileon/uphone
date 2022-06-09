@@ -26,10 +26,10 @@
 
 ### SDK集成
 Android SDK
+  * [SDK下载] (/uphone/sdk.md#Android_SDK下载)
   * [工程配置](/uphone/sdk.md#工程配置)
   * [接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
   * [接口说明](/uphone/sdk.md#接口说明)
-iOS SDK
 
 H5 SDK
   * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
