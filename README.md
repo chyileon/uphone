@@ -24,9 +24,11 @@
    * [体验相关](/uphone/FAQ.md#体验相关)
    * [二次开发](/uphone/FAQ.md#二次开发)
 
-### UPhone SDK集成指南
+### SDK集成
+Android SDK
+  * [SDK下载](/uphone/sdk.md#SDK下载)
   * [工程配置](/uphone/sdk.md#工程配置)
-  * [快速入门&接入步骤](/uphone/sdk.md#快速入门amp接入步骤)
+  * [快速入门](/uphone/sdk.md#快速入门)
   * [接口说明](/uphone/sdk.md#接口说明)
 
 H5 SDK
