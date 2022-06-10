@@ -29,7 +29,14 @@ Android SDK
   * [SDK下载](/uphone/sdk.md#SDK下载)
   * [工程配置](/uphone/sdk.md#工程配置)
   * [快速入门](/uphone/sdk.md#快速入门)
-  * [接口说明](/uphone/sdk.md#接口说明)
+  * [接口说明](/uphone/sdk.md#接口说明)z
+  
+iOS SDK
+  * [SDK下载](/uphone/ios_sdk.md#SDK下载)
+  * [工程配置](/uphone/ios_sdk.md#工程配置)
+  * [接入步骤](/uphone/ios_sdk.md#接入步骤)
+  * [接口说明](/uphone/ios_sdk.md#接口说明)
+  * [注意事项](/uphone/ios_sdk.md#注意事项)
 
 H5 SDK
   * [SDK下载](/uphone/h5-sdk.md#SDK下载)
