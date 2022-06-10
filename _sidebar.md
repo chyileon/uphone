@@ -32,13 +32,13 @@
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
   * [AOSP高阶功能](/uphone/_sysapplication.md)
 
-* 客户端SDK
- * Android SDK 
-   * [SDK下载](/uphone/sdk.md#SDK下载)  
-   * 工程配置
-       * [配置权限](/uphone/sdk.md#配置权限)        
-       * [导入SDK包](/uphone/sdk.md#导入SDK包)     
-       * [代码混淆](/uphone/sdk.md#代码混淆)  
+ * 客户端SDK
+  * Android SDK 
+    * [SDK下载](/uphone/sdk.md#SDK下载)  
+    * 工程配置
+        * [配置权限](/uphone/sdk.md#配置权限)        
+        * [导入SDK包](/uphone/sdk.md#导入SDK包)     
+        * [代码混淆](/uphone/sdk.md#代码混淆)  
     * 快速入门
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
