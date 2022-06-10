@@ -7,9 +7,12 @@
 * UPhone产品
     * [注册账号](/uphone/guide.md#注册账号)
     * [创建云手机](/uphone/guide.md#创建云手机)
+    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
     * [群控管理](/uphone/guide.md#群控管理)
     * [文件上传](/uphone/guide.md#文件上传)
-    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
+    * [一键新机](/uphone/guide.md#一键新机)
+    * [开关ROOT](/uphone/guide.md#开关ROOT)
+    * [设置GPS](/uphone/guide.md#设置GPS)
     * [产品计费](/uphone/guide.md#产品计费)
     
  * UPhoneServer产品 
