@@ -42,6 +42,7 @@
         * [导入SDK包](/uphone/sdk.md#导入SDK包)     
         * [代码混淆](/uphone/sdk.md#代码混淆)
     <details/>
+  
     * 快速入门
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
@@ -95,4 +96,4 @@
   * H5 SDK
     * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
     * [接口说明](/uphone/h5-sdk.md#API接口)
- 
+
