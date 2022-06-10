@@ -6,6 +6,7 @@
 
 * UPhone产品
     * [注册账号](/uphone/guide.md#注册账号)
+    * [创建云手机](/uphone/guide.md#创建云手机)
     * [群控管理](/uphone/guide.md#群控管理)
     * [文件上传](/uphone/guide.md#文件上传)
     * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
@@ -15,14 +16,19 @@
     * [服务器配置](/uphone/price.md#云手机服务器)
     * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone/guide.md#自制镜像)
-    * [产品计费] (/uphone/guide.md#产品计费)
- 
-   
+    * [使用ADB](/uphone/guide.md#使用ADB)
+    * [产品计费](/uphone/guide.md#产品计费)
+      
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
   * [体验相关](/uphone/FAQ.md#体验相关)
   * [二次开发](/uphone/FAQ.md#二次开发)
- 
+
+* 管理API
+  * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
+  * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+  * [AOSP高阶功能](/uphone/_sysapplication.md)
+
 * 客户端SDK
   * Android SDK 
     * [SDK下载](/uphone/sdk.md#SDK下载)  
@@ -55,7 +61,4 @@
   * H5 SDK
     * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
     * [接口说明](/uphone/h5-sdk.md#API接口)
-* 云手机管理API
-  * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
-  * [API SDK](https://cms-docs.ucloudadmin.com/tools)
-  * [AOSP高阶功能](/uphone/_sysapplication.md)
+
