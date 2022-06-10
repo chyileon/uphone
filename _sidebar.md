@@ -4,27 +4,26 @@
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
 
-* 产品计费
-   * [计费模式](/uphone/price.md#计费模式)
-   * [云主机配置](/uphone/price.md#云手机服务器)
-   * [资源删除](/uphone/price.md#退费规则)
-
-* 快速上手
+* UPhone产品
     * [注册账号](/uphone/guide.md#注册账号)
-    * [快速测试](/uphone/guide.md#快速测试)
-    * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [群控管理](/uphone/guide.md#群控管理)
     * [文件上传](/uphone/guide.md#文件上传)
+    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
+    * [产品计费](/uphone/guide.md#产品计费)
+    
+ * UPhoneServer产品 
+    * [服务器配置](/uphone/price.md#云手机服务器)
+    * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone/guide.md#自制镜像)
-    * [独立IP](/uphone/guide.md#独立公网IP)
-    * [使用AOSP功能](/uphone/_sysapplication.md)
-
+    * [产品计费] (/uphone/guide.md#产品计费)
+ 
+   
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
   * [体验相关](/uphone/FAQ.md#体验相关)
   * [二次开发](/uphone/FAQ.md#二次开发)
-  * 
-* SDK集成
+ 
+* 客户端SDK
   * Android SDK 
     * [SDK下载](/uphone/sdk.md#SDK下载)  
     * 工程配置     
@@ -56,6 +55,7 @@
   * H5 SDK
     * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
     * [接口说明](/uphone/h5-sdk.md#API接口)
-* 其他
+* 云手机管理API
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+  * [AOSP高阶功能](/uphone/_sysapplication.md)
