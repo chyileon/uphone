@@ -71,6 +71,9 @@
 >
 ><img width="135" alt="企业微信截图_d608b636-829f-4e96-89d4-2e9659fb20b7" src="https://user-images.githubusercontent.com/5512170/167244027-e104da60-bfa4-4699-b184-3af0166ebd01.png">
 
+### Q：抖音刚开始启动时声音断断续续，看起来很卡？
+>首次启动抖音时，抖音会执行dex2oat编译程序把cpu全部占满，持续约10分钟，后续使用时不再编译并占用很少的cpu
+
 ## 二次开发
 ### Q:云手机管理的API文档在哪看？
 > https://docs.ucloud.cn/api/uphone-api/README
