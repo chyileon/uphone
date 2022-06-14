@@ -64,7 +64,7 @@
         * [获取网络速度](/uphone/sdk.md#获取网络速度)    
         * [获取用户最后一次操作时间戳](/uphone/sdk.md#获取用户最后一次操作时间戳)     
         * [获得版本号](/uphone/sdk.md#获得版本号)
-  <details>
+  </details>
  * iOS SDK 
     * [SDK下载](/uphone/ios_sdk.md#SDK下载)  
     * [工程配置](/uphone/ios_sdk.md#工程配置)              
