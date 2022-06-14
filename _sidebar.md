@@ -44,12 +44,12 @@
   </details> 
  
   
-   * 快速入门
+    * 快速入门
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
         * [连接云手机](/uphone/sdk.md#连接UPhone)       
         * [断开云手机](/uphone/sdk.md#断开UPhone)  
-   * 接口说明  
+    * 接口说明  
         * [初始化sdk](/uphone/sdk.md#初始化sdk) 
         * [连接云手机](/uphone/sdk.md#连接云手机)  
         * [断开云手机](/uphone/sdk.md#断开云手机)      
@@ -93,8 +93,8 @@
         * [获取用户最后一次操作时间戳](/uphone/ios_sdk.md#获取用户最后一次操作时间戳)
         * [是否支持直播](/uphone/ios_sdk.md#是否支持直播)
         * [静音开关功能](/uphone/ios_sdk.md#静音开关功能)
-    * [注意事项](/uphone/ios_sdk.md#注意事项)
+     * [注意事项](/uphone/ios_sdk.md#注意事项)
  * H5 SDK
-    * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
-    * [接口说明](/uphone/h5-sdk.md#API接口)
+     * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
+     * [接口说明](/uphone/h5-sdk.md#API接口)
 
