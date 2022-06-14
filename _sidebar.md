@@ -42,6 +42,7 @@
         * [代码混淆](/uphone/sdk.md#代码混淆)
     <details>
     <summary>快速入门</summary>
+  
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
         * [连接云手机](/uphone/sdk.md#连接UPhone)       
