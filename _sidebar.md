@@ -13,7 +13,7 @@
     * [一键新机](/uphone/guide.md#一键新机)
     * [开关ROOT](/uphone/guide.md#开关ROOT)
     * [设置GPS](/uphone/guide.md#设置GPS)
-    * [产品计费](/uphone/price-uphone.md#产品计费)
+    * [产品计费](/uphone/price-uphone.md#产品计费:)
     
 * UPhoneServer产品 
     * [服务器配置](/uphone/price.md#云手机服务器)
