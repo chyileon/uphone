@@ -6,8 +6,8 @@
 * [创建第一台服务器](https://console.ucloud.cn/uphone/server)
 ![img](images/price.png)
 ## 云手机服务器
-|配置       |详情            |
-|：-------------|：----------------|
+|：配置       |：详情            |
+|-------------|----------------|
 |CPU       | 安培ARM 28大核 3.0GHZ         |
 |内存       |60GB                       |
 |显卡       |1张NVIDIA Tesla T4          |
