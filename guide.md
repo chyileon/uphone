@@ -10,7 +10,7 @@
   
   若测试非大陆场景APP：选择广州或上海->标准镜像或其他镜像-> 24开 -> 海外地区,带宽1-2M,6:1 -> 设置服务器名称 -> 新增业务组名称便于管理， 创建好后使用群控功能批量更改时区和语言信息。 
 ### 创建云手机
- ![img](images/signin2.png)
+ ![img](images/uphone.jpg)
 ### 创建云手机服务器
  ![img](images/signin2.png)
  ![img](images/signin3.png)
