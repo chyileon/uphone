@@ -13,14 +13,14 @@
     * [一键新机](/uphone/guide.md#一键新机)
     * [开关ROOT](/uphone/guide.md#开关ROOT)
     * [设置GPS](/uphone/guide.md#设置GPS)
-    * [产品计费](/uphone/guide.md#产品计费)
+    * [产品计费](/uphone/price-uphone.md#产品计费)
     
 * UPhoneServer产品 
     * [服务器配置](/uphone/price.md#云手机服务器)
     * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone/guide.md#自制镜像)
     * [使用ADB](/uphone/guide.md#使用ADB)
-    * [产品计费](/uphone/guide.md#产品计费)
+    * [产品计费](/uphone/price-server.md#产品计费)
       
 * 常见问题
   * [功能相关](/uphone/FAQ.md#功能相关)
