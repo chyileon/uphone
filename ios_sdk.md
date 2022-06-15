@@ -48,10 +48,12 @@ SDK 使用前请对工程进行配置，否则 SDK 不生效。
 | 参数            | 类型             | 意义            |
 |:-------- |:-------- |:------- |
 |uphoneId|NSString|接入商的唯一 ID，用来区分不同的接入商。|
+|token|NSString|连接访问校验值(注:如果调用api接口SetUPhoneToken进行了设置，此处为必填,否则填空)|
 
 示例代码
 ```
-UTestVideoViewController *videoCallViewController = [[UTestVideoViewController alloc] initWithUphone:uphoneId];
+UTestVideoViewController *videoCallViewController = [[UTestVideoViewController alloc] initWithUphone:phoneId];
+videoCallViewController.token = @"123456";
 ```
 ## 接口说明
 ### 连接云手机
