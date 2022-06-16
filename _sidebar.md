@@ -37,20 +37,20 @@
  * Android SDK
     * [SDK下载](/uphone/sdk.md#SDK下载)
    <details>
-    <summary>工程配置</summary>
+    <summary> 工程配置 </summary>
        * [配置权限](/uphone/sdk.md#配置权限)
        * [导入SDK包](/uphone/sdk.md#导入SDK包)
        * [代码混淆](/uphone/sdk.md#代码混淆) 
-   </detials>
+   </details>
    <details>
     <summary> 快速入门</summary>
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)
         * [连接云手机](/uphone/sdk.md#连接UPhone)
         * [断开云手机](/uphone/sdk.md#断开UPhone)
-   </detials>
-   <detial>
-    <summary>接口说明</summary>
+   </details>
+   <details>
+    <summary> 接口说明</summary>
         * [初始化sdk](/uphone/sdk.md#初始化sdk) 
         * [连接云手机](/uphone/sdk.md#连接云手机)  
         * [断开云手机](/uphone/sdk.md#断开云手机)      
@@ -67,7 +67,7 @@
         * [获取网络速度](/uphone/sdk.md#获取网络速度)    
         * [获取用户最后一次操作时间戳](/uphone/sdk.md#获取用户最后一次操作时间戳)     
         * [获得版本号](/uphone/sdk.md#获得版本号)
-  </detials>
+  </details>
  * iOS SDK 
     * [SDK下载](/uphone/ios_sdk.md#SDK下载)  
     * [工程配置](/uphone/ios_sdk.md#工程配置)              
