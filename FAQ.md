@@ -25,7 +25,10 @@
 
 ### Q:云手机支持一键新机吗？
 
->A:支持，每台云手机在创建时会自动生成设备的唯一信息，包括 厂商 型号 设备名称 硬件名称	主板 设备指纹 incremental	sdcard容量	分辨率	DPI GPS等。
+>A:支持，每台云手机在创建时会自动生成设备的唯一信息，目前已增加13种机型，后续将继续增加机型。目前已经支持的参数见表格：
+>![企业微信截图_c484768e-000d-4970-8b20-9a751e0c04e2](https://user-images.githubusercontent.com/5512170/173987073-c4862c1d-6948-402a-80ae-884a60a0ae7f.png)
+![企业微信截图_ce71226a-9c8e-4c68-b73d-6ab4941ec54f](https://user-images.githubusercontent.com/5512170/173987051-f6fdd8ec-3029-4447-86bd-44b97f3019cc.png)
+
 
 ### Q:云手机支持独立IP吗？
 
