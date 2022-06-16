@@ -35,7 +35,9 @@
 * 客户端SDK
 
  * Android SDK
-    * [SDK下载](/uphone/sdk.md#SDK下载)
+  <details>
+    <summary>[SDK下载](/uphone/sdk.md#SDK下载)</summary>
+  </details>
     * 工程配置 
        * [配置权限](/uphone/sdk.md#配置权限)  
        * [导入SDK包](/uphone/sdk.md#导入SDK包)
