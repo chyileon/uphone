@@ -32,6 +32,7 @@
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
   * [AOSP高阶功能](/uphone/_sysapplication.md)
 
+* 客户端SDK
 
   * Android SDK
     * [SDK下载](/uphone/sdk.md#SDK下载)
