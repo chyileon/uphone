@@ -49,7 +49,8 @@
         * [连接云手机](/uphone/sdk.md#连接UPhone)
         * [断开云手机](/uphone/sdk.md#断开UPhone)
    </detials>
-    * 接口说明
+   <detial>
+    <summary>接口说明</summary>
         * [初始化sdk](/uphone/sdk.md#初始化sdk) 
         * [连接云手机](/uphone/sdk.md#连接云手机)  
         * [断开云手机](/uphone/sdk.md#断开云手机)      
@@ -66,6 +67,7 @@
         * [获取网络速度](/uphone/sdk.md#获取网络速度)    
         * [获取用户最后一次操作时间戳](/uphone/sdk.md#获取用户最后一次操作时间戳)     
         * [获得版本号](/uphone/sdk.md#获得版本号)
+  </detials>
  * iOS SDK 
     * [SDK下载](/uphone/ios_sdk.md#SDK下载)  
     * [工程配置](/uphone/ios_sdk.md#工程配置)              
