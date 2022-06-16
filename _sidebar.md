@@ -36,13 +36,13 @@
 
  * Android SDK
    * [SDK下载](/uphone/sdk.md#SDK下载)
-   * <details>
+   <details>
    * <summary> 工程配置 </summary>
-     *  <p> [配置权限](/uphone/sdk.md#配置权限)</p>      
-       *  <p> [导入SDK包](/uphone/sdk.md#导入SDK包)</p> 
-        * <p> [代码混淆](/uphone/sdk.md#代码混淆) </p>
+      <p> [配置权限](/uphone/sdk.md#配置权限)</p>      
+        <p> [导入SDK包](/uphone/sdk.md#导入SDK包)</p> 
+        <p> [代码混淆](/uphone/sdk.md#代码混淆) </p>
         
-  * </details>
+  </details>
     * 快速入门
         * [注册云手机状态监听器](/uphone/sdk.md#注册云手机状态监听器)  	
         * [初始化云手机sdk](/uphone/sdk.md#初始化云手机sdk)   	 
