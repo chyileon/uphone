@@ -87,4 +87,4 @@
 ![img](images/image4.png) 
 ### 独立公网IP
  可批量将云手机按照绑定比例购买独立IP（支持国内和海外)，批量云手机共享购买的带宽
-![img](images/ip.png) 
+![img](images/ip.jpg) 
