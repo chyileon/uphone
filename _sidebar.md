@@ -19,7 +19,6 @@
     * [服务器配置](/uphone/price.md#云手机服务器)
     * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
     * [自制手机镜像](/uphone/guide.md#自制镜像)
-    * [使用ADB](/uphone/guide.md#使用ADB)
     * [产品计费](/uphone/price.md#产品计费)
       
 * 常见问题
