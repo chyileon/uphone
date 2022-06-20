@@ -13,9 +13,12 @@
  ![img](images/signin3.png)
 ### 群控管理
  在"云手机管理"页面点击"群控管理"
- ![img](images/qunkong1.png)
- ![img](images/signin4.jpg)
- ![img](images/signin5.jpg)
+ 选择需要上传文件的云手机
+ ![img](images/QK1.png)
+ 选择需要上传的文件,暂时仅支持单文件上传,后续会支持多文件上传
+ ![img](images/QK2.jpg)
+ 上传进度为100%时，上传文件成功,如上传文件为apk,云手机会自动安装，安装包及其他类型的文件可在"文件管理→下载"中查看
+ ![img](images/QK3.jpg)
 ### 文件上传
 #### 1.创建存储空间	 （点击群控页面US3入口创建）
  ![img](images/file1.jpg)
