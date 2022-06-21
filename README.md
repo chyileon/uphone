@@ -5,15 +5,13 @@
    * [应用场景](/uphone/_application.md)
 
 ### 产品计费
-   * [计费模式](/uphone/price.md#计费模式)
-   * [云主机配置](/uphone/price.md#云手机服务器)
+   * [计费模式](/uphone/price-uphone.md#计费模式)
    * [资源删除](/uphone/price.md#资源删除)
 
 ### 快速上手
   * [注册账号](/uphone/guide.md#注册账号)
   * [快速测试](/uphone/guide.md#快速测试)
   * [创建云手机](/uphone/guide.md#创建云手机)
-  * [创建云手机服务器](/uphone/guide.md#创建云手机服务器)
   * [群控管理](/uphone/guide.md#群控管理)
   * [文件上传](/uphone/guide.md#文件上传)
   * [自制镜像](/uphone/guide.md#自制镜像)
