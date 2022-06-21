@@ -120,14 +120,14 @@ videoCallViewController.token = @"123456";
 ```
 NSString *delay = [UPhoneService getVersionCode];
 ```
-### 云手机清理后台任务
+### 云手机加速
 函数原型
 ```
-- (void)backUPhoneTaskList;
+- (void)speedUpUPhone;
 ```
 示例代码
 ```
-[self backUPhoneTaskList];
+[self speedUpUPhone];
 ```
 注：self是UPhoneVideoViewController的子类
 ### 云手机返回到桌面
