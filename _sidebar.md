@@ -75,7 +75,7 @@
         * [设置分辨率](/uphone/ios_sdk.md#设置分辨率)         
         * [获取网络延时](/uphone/ios_sdk.md#获取网络延时)       
         * [获取SDK版本号](/uphone/ios_sdk.md#获取SDK版本号)     
-        * [云手机清理后台任务](/uphone/ios_sdk.md#云手机清理后台任务)    
+        * [云手机加速](/uphone/ios_sdk.md#云手机加速)    
         * [云手机返回到桌面](/uphone/ios_sdk.md#云手机返回到桌面)    
         * [云手机返回到上一级界面](/uphone/ios_sdk.md#云手机返回到上一级界面)    
         * [获取网络速度](/uphone/ios_sdk.md#获取网络速度)    
