@@ -6,8 +6,8 @@
   独立IP和共享带宽为可选项，不选的话也可以使用但用的是服务器IP，选中后可以用于云手机防关联和实现云手机模拟异地；
  
 ### 创建云手机
- ![img](images/signin2.png)
- ![img](images/signin3.png)
+ ![img](images/uphone1.png)
+ ![img](images/uphone.jpg)
 ### 群控管理
 ### 文件上传
 #### 1.选择需要上传文件的云手机
