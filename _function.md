@@ -2,7 +2,7 @@
 # 功能和优势
 ### 支持多地域、独立IP
 
-|地域<div style="width:30px">     |详情<div style="width:30px">      |
+|地域<div style="width:30px">     |详情<div style="width:20px">      |
 |:---------|:-----------|
 |国内  |北京<br>上海<br>广州<br>香港<br>台北        |
 |海外 | 新加坡<br>菲律宾<br>越南<br>泰国<br>印尼<br>韩国<br>日本<br>洛杉矶<br>法兰克福<br>伦敦    |
