@@ -84,5 +84,5 @@
         * [注意事项](/uphone/ios_sdk.md#注意事项)
  * H5 SDK
      * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
-     * [接口说明](/uphone/h5-sdk.md#api接口)
+     * [接口说明](/uphone/h5-sdk.md#状态回调函数)
 
