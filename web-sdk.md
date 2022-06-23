@@ -22,13 +22,13 @@
 
 1．解压SDK压缩包，将sdk文件夹放入项目中。*开发者可借鉴官方提供demo。
 
-![企业微信截图_03040ba0-3db2-473f-a5f7-4882d3b77dff](/Users/user/Library/Containers/com.tencent.WeWorkMac/Data/Documents/Profiles/A8BBA618E62B88F4BD4C2D7C713828D0/Caches/Images/2022-06/5fe601bb6aa0149d4c94551b1c1c2899_HD/企业微信截图_03040ba0-3db2-473f-a5f7-4882d3b77dff.png)
+![img](images/web-img1.png)
 
 2. 用户创建媒体界面，并在媒体界面导入"controller.js"、"proto.js"。
 
-![企业微信截图_6b027ef6-338e-4ce7-9b0a-999b147b22a7](/Users/user/Library/Containers/com.tencent.WeWorkMac/Data/Documents/Profiles/A8BBA618E62B88F4BD4C2D7C713828D0/Caches/Images/2022-06/9e03d12c65f926190075e3e985d81aeb_HD/企业微信截图_6b027ef6-338e-4ce7-9b0a-999b147b22a7.png)
+![img](images/web-img2.png)
 
-![企业微信截图_2f169084-0d77-43e2-8343-4fdc333d9f33](/Users/user/Library/Containers/com.tencent.WeWorkMac/Data/Documents/Profiles/A8BBA618E62B88F4BD4C2D7C713828D0/Caches/Images/2022-06/078d2e72478112d7650e5cac0aa4352c_HD/企业微信截图_2f169084-0d77-43e2-8343-4fdc333d9f33.png)
+![img](images/web-img3.png)
 
  说明：在创建引擎之前，开发者需定义一个id为remote-video的video标签，SDK会在这个元素内加载音视频。video标签设置autoplay、playsinline、webkit-playsinline属性。
 
