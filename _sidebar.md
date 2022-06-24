@@ -1,11 +1,14 @@
 * [概览](/uphone/README.md)
+
+* 购买体验
+   * [立即入手](https://console.ucloud.cn/uphone-retail/uphone/create)
+  
 * 产品介绍   <!-- 以下是参考的目录模版，旨在建议产品文档应该包含的内容模块。实际章节划分可根据实际内容进行调整 -->
    * [什么是云手机](/uphone/_whatUphone.md)
    * [功能与优势](/uphone/_function.md)
    * [应用场景](/uphone/_application.md)
    * [注册账号](/uphone/guide.md#注册账号)
    * [创建云手机](/uphone/guide.md#创建云手机)
-   * [购买体验](https://console.ucloud.cn/uphone-retail/uphone/create)
    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
    * [产品计费](/uphone/price-uphone.md#产品计费)
 
