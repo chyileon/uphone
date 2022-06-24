@@ -2,7 +2,7 @@
 
 |   SDK   | ZIP包 | GitHub |
 | :-----: | :---: | :----: |
-| WEB SDK | 下载  |        |
+| WEB SDK | [下载](http://uphone-sdk.cn-bj.ufileos.com/uphone-web-sdk.zip)  |    [GitHub 下载](https://github.com/ucloud/uphone-web-sdk.git)  |
 
 # 概述
 
@@ -192,7 +192,7 @@ phoneVideo.srcObject = stream;     // 添加视频流到video标签
 示例代码
 
 ```js
-  Controller.hangUp();
+  Controller.closeConnection();
 ```
 
 ### 重新连接
