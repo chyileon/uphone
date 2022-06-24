@@ -5,7 +5,7 @@
    * [应用场景](/uphone/_application.md)
    * [注册账号](/uphone/guide.md#注册账号)
    * [创建云手机](/uphone/guide.md#创建云手机)
-   * [购买体验](https://console.ucloud.cn/uphone/server)
+   * [购买体验](https://console.ucloud.cn/uphone-retail/uphone/create)
    * [独立IP与共享带宽](/uphone/guide.md#独立公网IP)
    * [产品计费](/uphone/price-uphone.md#产品计费)
 
