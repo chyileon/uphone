@@ -286,3 +286,6 @@ phoneVideo.srcObject = stream;     // 添加视频流到video标签
 1. 下载官方demo压缩包，解压文件将文件夹导入到开发工具。
 
 2. 可在本地服务环境下运行，浏览器调试。
+
+# 常见错误码
+![image](https://user-images.githubusercontent.com/10163162/174713661-e670efa8-e644-4766-b6e8-4e6741681172.png)
