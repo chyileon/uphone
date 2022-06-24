@@ -1,4 +1,4 @@
-## WEB SDK 下载
+## Web SDK 下载
 
 |   SDK   | ZIP包 | GitHub |
 | :-----: | :---: | :----: |
