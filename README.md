@@ -42,7 +42,7 @@ H5 SDK
   * [接口说明](/uphone/h5-sdk.md#接口说明)
   * [错误码表](/uphone/h5-sdk.md#常见错误码)
  
-WEB SDK
+Web SDK
   * [SDK下载](/uphone/web-sdk.md#SDK下载)
   * [快速入门](/uphone/web-sdk.md#快速入门)
   * [接口说明](/uphone/web-sdk.md#接口说明)
