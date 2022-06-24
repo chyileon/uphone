@@ -85,4 +85,8 @@
  * H5 SDK
      * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
      * [接口说明](/uphone/h5-sdk.md#状态回调函数)
+ * Web SDK
+     * [接入步骤](/uphone/Web-sdk.md#Web SDK 下载)
+     * [快速入门](/uphone/Web-sdk.md#快速入门&集成SDK)
+     * [接口说明](/uphone/Web-sdk.md#API接口)
 
