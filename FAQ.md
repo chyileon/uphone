@@ -57,6 +57,7 @@
 
 ### 如何体验下云游戏的效果？
 > 下载上述二维码的客户端，点击游戏图标即可体验。 注：演示服务器在杭州，不同地域的玩家到杭州延迟会有差异
+> H5体验：拷贝地址到手机微信或者浏览器  https://www.ugame.ucloud.cn/mobile/index.html#/
 
 ### 无法安装应用和APP无响应怎么解决？
 >  <img width="294" alt="企业微信截图_5accb9aa-e1b9-48d0-b127-c00e320edce5" src="https://user-images.githubusercontent.com/5512170/175291960-27dc20cf-72aa-4e18-9fdd-5c7345200dc7.png">
