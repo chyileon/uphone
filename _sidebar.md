@@ -86,10 +86,10 @@
         * [是否支持直播](/uphone/ios_sdk.md#是否支持直播)
         * [静音开关功能](/uphone/ios_sdk.md#静音开关功能)
         * [注意事项](/uphone/ios_sdk.md#注意事项)
- * H5 SDK
+ * H5 SDK (移动端)
      * [接入步骤](/uphone/h5-sdk.md#快速入门amp集成SDK)
      * [接口说明](/uphone/h5-sdk.md#状态回调函数)
- * Web SDK
+ * Web SDK (电脑端)
      * [接入步骤](/uphone/web-sdk.md#WebSDK下载)
      * [快速入门](/uphone/web-sdk.md#快速入门&集成SDK)
      * [接口说明](/uphone/web-sdk.md#API接口)
