@@ -25,7 +25,7 @@
 
 * 管理API
   * [API 文档](https://docs.ucloud.cn/api/uphone-api/README)
-  * [API SDK](https://docs.ucloudadmin.com/tools)
+  * [API SDK](https://docs.ucloud.cn/tools)
   * [AOSP高阶功能](/uphone/_sysapplication.md)
 
 * 客户端SDK
