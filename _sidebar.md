@@ -24,8 +24,8 @@
   * [二次开发](/uphone/FAQ.md#二次开发)
 
 * 管理API
-  * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
-  * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+  * [API 文档](https://docs.ucloudadmin.com/api/uphone-api/README)
+  * [API SDK](https://docs.ucloudadmin.com/tools)
   * [AOSP高阶功能](/uphone/_sysapplication.md)
 
 * 客户端SDK
