@@ -3,7 +3,7 @@ Android SDK 用于 Android 终端接入，支持端游和手游。SDK 提供了�
 
 | SDK     | ZIP 包 | GitHub  |
 |:----------- |:----------- |:----------- |
-| Android SDK | [下载](http://uphone-sdk.cn-bj.ufileos.com/uphone-android-sdk.zip)| [GitHub 下载](https://github.com/ucloud/uphone-android-sdk) | 
+| Android SDK | [下载](http://uphone-client.cn-wlcb.ufileos.com/sdk/uphone-android-sdk.zip)| [GitHub 下载](https://github.com/ucloud/uphone-android-sdk) | 
 
 ## 工程配置
 ### 配置权限
