@@ -3,7 +3,7 @@ iOS SDK 用于 iOS 终端接入，支持端游和手游。SDK 提供了丰富的
 
 | SDK     | ZIP 包 | GitHub  |
 | ----------- | ----------- | ----------- |
-| iOS SDK | [下载](http://uphone-sdk.cn-bj.ufileos.com/uphone-ios-sdk.zip)| [GitHub 下载](https://github.com/ucloud/uphone-ios-sdk) | 
+| iOS SDK | [下载](http://uphone-client.cn-wlcb.ufileos.com/sdk/uphone-ios-sdk.zip)| [GitHub 下载](https://github.com/ucloud/uphone-ios-sdk) | 
 
 ## 工程配置
 ### 导入SDK
