@@ -2,7 +2,7 @@
 
 |   SDK   | ZIP包 | GitHub |
 | :-----: | :---: | :----: |
-| WEB SDK | [下载](http://uphone-sdk.cn-bj.ufileos.com/uphone-web-sdk.zip)  |    [GitHub 下载](https://github.com/ucloud/uphone-web-sdk.git)  |
+| WEB SDK | [下载](http://uphone-client.cn-wlcb.ufileos.com/sdk/uphone-web-sdk.zip)  |    [GitHub 下载](https://github.com/ucloud/uphone-web-sdk.git)  |
 
 # 概述
 
