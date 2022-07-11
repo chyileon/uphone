@@ -54,3 +54,5 @@ Web SDK (电脑端)
  ### 其他
   * [API 文档](https://cms-docs.ucloudadmin.com/api/uphone-api/README)
   * [API SDK](https://cms-docs.ucloudadmin.com/tools)
+### 发布更新
+  * [更新记录](/uphone/changelog.md)
