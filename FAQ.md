@@ -95,6 +95,8 @@
 ### Q：TikToK登录时提示”Too many attemps，try again later“ 怎么办？
 > 可以尝试长按TikTok图标->感叹号或App info -> Storage -> 点击CLEAR STORAGE和CLEAR CACHE 来清空缓存数据
 
+> 也可以过段时间再尝试登录
+
 ### Q：独立IP的共享带宽买多大合适？
 >TikTok约占用0.5Mbps带宽，对于视频类APP可以2个云手机共用1Mbps；也可以通过错开时间段来使用共享带宽，比如20个手机买5M带宽，每天分2组每组10个同时播放视频；
 >对于游戏类APP，其上报游戏数据量较小，可以10个云手机共用1M带宽进行配比；
